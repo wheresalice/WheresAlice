@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WheresAlice
-- 👀 I’m interested in projects that enable people to share and communicate better and safer
-- 🌱 I’m currently learning TypeScript and CDK
-- 💞️ I’m looking to collaborate on projects which make the world a better place
-- 📫 How to reach me - alice at kaerast.info
+
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=wheresalice&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheresalice&hide=CSS,HTML,SCSS&layout=compact)
+
+![Visitor Count](https://profile-counter.glitch.me/wheresalice/count.svg)
